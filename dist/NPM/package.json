@@ -1,0 +1,12 @@
+{
+	"name": "original-fs",
+	"description": "Ensure that the correct module is loaded in a non-Electron environment.／在非 Electron 环境中确保加载正确的模块。",
+	"version": "1.1.0",
+	"license": "LGPL-3.0",
+	"author": "龙腾道 <LongTengDao@LongTengDao.com> (www.LongTengDao.com)",
+	"bugs": "https://GitHub.com/LongTengDao/original-fs/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://GitHub.com/LongTengDao/original-fs.git"
+	}
+}
