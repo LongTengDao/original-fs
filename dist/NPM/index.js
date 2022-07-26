@@ -1,5 +1,1 @@
-﻿'use strict';
-
-var _default = require('fs');
-
-module.exports = _default;
+﻿'use strict';module.exports=require('fs');
